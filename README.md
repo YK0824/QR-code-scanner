@@ -111,5 +111,5 @@ When you click ScannerView, it will rescan.
         }
     };
 ```
-Finally, to show my pictures and features here
+Finally, to show my pictures and features here.  
 ![image](https://github.com/YK0824/QR-code-scanner/blob/main/main.PNG)
