@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //login
+    <drawable name="p0_login_background">@drawable/p_0</drawable>
+</resources>
